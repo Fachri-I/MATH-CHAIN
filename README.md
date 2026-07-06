@@ -1,3 +1,3 @@
-You can access the website in bellow
+You can access the following website
 
 https://fachri-i.github.io/MATH-CHAIN/
